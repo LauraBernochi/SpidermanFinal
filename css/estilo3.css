@@ -1,0 +1,411 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Roboto&display=swap');
+
+
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+@media screen and (min-width: 100px) and (max-width: 767px) {
+
+
+    body{background-color: black;}
+
+main{
+    width: 576px;
+    height: 600px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{ width: 576px;
+height: 280px; 
+background-color: black;
+}
+
+img{
+margin-left: 30px;
+margin-top: 7px;}
+
+.logospidi{height: 100px;
+margin-left: 160px;}
+
+
+li{font-size: 30px;
+    font-family: 'Koulen', cursive;
+color: white;
+text-align: center;}
+
+a{text-decoration: none;
+    box-shadow: none;
+color: white;}
+
+ul {
+    list-style: none;
+}
+.escenasimg{
+    height:295px;
+    margin-top: 40px;
+    float: left;
+
+}
+
+
+section{
+    width: 576px;
+    height: 1460px;
+    background-image: url(../img/fondo13.png);
+}
+
+
+
+
+h2{color: white;
+font-family:'Koulen', cursive ;
+ font-size: 35px;
+margin-left: 155px;
+}
+
+h3{color: white;
+font-family:'Roboto', sans-serif  ;
+ font-size: 15px;
+margin-left: 185px;
+}
+
+footer{
+    width: 576px;
+    height: 40px;
+    background-color: black;
+}
+
+
+#uceslogo{
+    float: right;
+margin-right: 12px;
+margin-top: -54px;}
+
+.marvelpng{
+    height: 20px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.uceslogo{height: 80px;
+}
+
+
+
+h1{color: white;
+font-family: 'Roboto', sans-serif;
+ font-size: 12px;
+ margin-left: 253px;
+padding-top: 12px;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+   
+   body{background-color: black;}
+
+main{
+    width: 760px;
+    height: 600px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header{ width: 760px;
+height: 68px; 
+background-color: black;
+}
+
+img{float: left;
+margin-left: 30px;
+margin-top: 7px;}
+
+.logospidi{height: 60px;}
+
+a{text-decoration: none;
+    box-shadow: none;
+  font-family: 'Koulen', cursive;
+   color: white;
+   font-size: 25px;
+    } 
+    li{
+    display:inline-block;
+    width:20%;
+    padding: 15px 0px;
+    text-align:center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+.escenasimg{
+    height: 193px;
+    margin-top: 50px;
+
+}
+
+
+
+section{
+    width: 760px;
+    height: 600px;
+    background-image: url(../img/fondo12.png);
+}
+
+
+h2{color: white;
+font-family:  'Koulen', cursive;
+ font-size: 30px;
+margin-left: 264px;}
+
+
+h3{color: white;
+font-family:'Roboto', sans-serif  ;
+ font-size: 10px;
+text-align: center;}
+
+footer{
+    width: 760px;
+    height: 35px;
+    background-color: black;
+}
+
+
+#uceslogo{
+    float: right;
+margin-right: 12px;
+margin-top: -55px;}
+
+.marvelpng{
+    height: 20px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 8px;
+}
+
+.uceslogo{height: 80px;
+}
+
+
+h1{color: white;
+font-family: 'Roboto', sans-serif;
+ font-size: 12px;
+ margin-left: 345px;
+padding-top: 10px;}
+
+}
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+   body{background-color: black;}
+
+main{
+    width: 940px;
+    height: 600px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header{ width: 940px;
+height: 67px; 
+background-color: black;
+}
+
+img{float: left;
+}
+
+.logospidi{height: 55px;
+margin-left: 20px;}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Koulen', cursive;
+   color: white;
+   font-size: 18px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 15px 0px;
+    text-align:center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+.escenasimg{
+    height:200px;
+    margin-top: 40px;
+    margin-left: 80px;
+
+}
+
+
+
+section{
+    width: 940px;
+    height: 560px;
+    background-image: url(../img/fondo6.jpg);
+}
+
+
+h2{color: white;
+font-family:  'Koulen', cursive;
+ font-size: 25px;
+text-align: center;}
+
+h3{color: white;
+font-family:'Roboto', sans-serif  ;
+ font-size: 14px;
+text-align: center;}
+
+footer{
+    width: 940px;
+    height: 40px;
+    background-color: black;
+}
+
+
+#uceslogo{
+    float: right;
+margin-right: 8px;
+margin-top: -48px;}
+
+.marvelpng{
+    height: 20px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.uceslogo{height: 80px;
+}
+
+
+h1{color: white;
+font-family: 'Roboto', sans-serif;
+ font-size: 12px;
+ margin-left: 440px;
+padding-top: 12px;}
+
+}
+
+
+
+
+
+@media screen and (min-width: 1200px) and (max-width: 5000px) {
+    body{background-color: black;}
+
+main{
+    width: 1100px;
+    height: 600px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header{ width: 1100px;
+height: 68px; 
+background-color: black;
+}
+
+img{float: left;
+margin-left: 30px;
+margin-top: 7px;}
+
+.logospidi{height: 55px;}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Koulen', cursive;
+   color: white;
+   font-size: 18px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 20px 0px;
+    text-align:center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+.escenasimg{
+    height:140px;
+    margin-top: 100px;
+    margin-left: 24px;
+
+}
+
+
+
+section{
+    width: 1100px;
+    height: 480px;
+    background-image: url(../img/fondo11.png);
+}
+
+
+h2{color: white;
+font-family:  'Koulen', cursive;
+ font-size: 45px;
+text-align: center;
+padding-top: 4px;}
+
+
+h3{color: white;
+font-family:'Roboto', sans-serif  ;
+ font-size: 15px;
+text-align: center;
+}
+
+footer{
+    width: 1100px;
+    height: 40px;
+    background-color: black;
+}
+
+
+#uceslogo{
+    float: right;
+margin-right: 8px;
+margin-top: -53px;}
+
+.marvelpng{
+    height: 20px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.uceslogo{height: 80px;
+}
+
+
+h1{color: white;
+font-family: 'Roboto', sans-serif;
+ font-size: 12px;
+ margin-left: 515px;
+padding-top: 12px;}
+}

@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Roboto&display=swap');
+
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{background-color: black;}
+
+main{
+	width: 992px;
+	height: 700px;
+	background-color: pink;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{width: 992px;
+height: 80px;
+background-color: black;}
+
+section{
+	width: 992px;
+	height: 580px;
+	background-image: url(../img/fondo12.jpg);
+}
+
+footer{width: 992px;
+height: 40px;
+background-color: black;}
+
+.logospidi{ height: 70%; float: left;
+margin-top: 10px;
+margin-left: 20px;}
+
+.uces{height: 55%;
+float: right;
+margin-right: 20px;
+margin-top: -16px;}
+
+.marvel{height: 60%;
+	float: left;
+margin-left: 20px;
+margin-top: 6px;}
+
+
+h1{color:  white;
+text-align: center;
+font-size: 12px;
+font-family:'Roboto', sans-serif;
+padding-top: 10px;
+margin-right: 40px;
+}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Bebas Neue', cursive;
+   color: white;
+   font-size: 20px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 25px 0px;
+    text-align: center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+     h2{color: white;
+    font-family: 'Bebas Neue', cursive;
+font-size: 45px;
+text-align: center;}
+
+iframe{margin-left: 95px;}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+body{background-color: black;}
+
+main{
+    width: 576px;
+    height: 700px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{width: 576px;
+height: 80px;
+background-color: black;}
+
+section{
+    width: 576px;
+    height: 580px;
+    background-image: url(../img/fondo12.jpg);
+}
+
+footer{width: 576px;
+height: 40px;
+background-color: black;}
+
+.logospidi{ height: 70%; float: left;
+margin-top: 10px;
+margin-left: 20px;}
+
+.uces{height: 55%;
+float: right;
+margin-right: 20px;
+margin-top: -16px;}
+
+.marvel{height: 60%;
+    float: left;
+margin-left: 20px;
+margin-top: 6px;}
+
+
+h1{color:  white;
+text-align: center;
+font-size: 12px;
+font-family:'Roboto', sans-serif;
+padding-top: 10px;
+margin-right: 40px;
+}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Bebas Neue', cursive;
+   color: white;
+   font-size: 20px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 25px 0px;
+    text-align: center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+     h2{color: white;
+    font-family: 'Bebas Neue', cursive;
+font-size: 45px;
+text-align: center;}
+
+iframe{margin-left: 55px;}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    body{background-color: black;}
+
+main{
+    width: 768px;
+    height: 700px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{width: 768px;
+height: 80px;
+background-color: black;}
+
+section{
+    width: 768px;
+    height: 580px;
+    background-image: url(../img/fondo12.jpg);
+}
+
+footer{width: 768px;
+height: 40px;
+background-color: black;}
+
+.logospidi{ height: 70%; float: left;
+margin-top: 10px;
+margin-left: 20px;}
+
+.uces{height: 55%;
+float: right;
+margin-right: 20px;
+margin-top: -16px;}
+
+.marvel{height: 60%;
+    float: left;
+margin-left: 20px;
+margin-top: 6px;}
+
+
+h1{color:  white;
+text-align: center;
+font-size: 12px;
+font-family:'Roboto', sans-serif;
+padding-top: 10px;
+margin-right: 40px;
+}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Bebas Neue', cursive;
+   color: white;
+   font-size: 25px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 22px 0px;
+    text-align: center;
+    color:white;
+    float: right;
+    margin-right: 10px;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+     h2{color: white;
+    font-family: 'Bebas Neue', cursive;
+font-size: 45px;
+text-align: center;}
+
+iframe{margin-left: 80px;}
+
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+body{background-color: black;}
+
+main{
+    width: 992px;
+    height: 700px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{width: 992px;
+height: 80px;
+background-color: black;}
+
+section{
+    width: 992px;
+    height: 580px;
+    background-image: url(../img/fondo12.jpg);
+}
+
+footer{width: 992px;
+height: 40px;
+background-color: black;}
+
+.logospidi{ height: 70%; float: left;
+margin-top: 10px;
+margin-left: 20px;}
+
+.uces{height: 55%;
+float: right;
+margin-right: 20px;
+margin-top: -16px;}
+
+.marvel{height: 60%;
+    float: left;
+margin-left: 20px;
+margin-top: 6px;}
+
+
+h1{color:  white;
+text-align: center;
+font-size: 12px;
+font-family:'Roboto', sans-serif;
+padding-top: 10px;
+margin-right: 40px;
+}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Bebas Neue', cursive;
+   color: white;
+   font-size: 20px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 25px 0px;
+    text-align: center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+     h2{color: white;
+    font-family: 'Bebas Neue', cursive;
+font-size: 45px;
+text-align: center;}
+
+iframe{margin-left: 95px;}
+
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 4000px) {
+
+    body{background-color: black;}
+
+main{
+    width: 1200px;
+    height: 700px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{width: 1200px;
+height: 80px;
+background-color: black;}
+
+section{
+    width: 1200px;
+    height: 580px;
+    background-image: url(../img/fondo12.jpg);
+}
+
+footer{width: 1200px;
+height: 40px;
+background-color: black;}
+
+.logospidi{ height: 70%; float: left;
+margin-top: 10px;
+margin-left: 20px;}
+
+.uces{height: 55%;
+float: right;
+margin-right: 20px;
+margin-top: -16px;}
+
+.marvel{height: 60%;
+    float: left;
+margin-left: 20px;
+margin-top: 6px;}
+
+
+h1{color:  white;
+text-align: center;
+font-size: 12px;
+font-family:'Roboto', sans-serif;
+padding-top: 10px;
+margin-right: 40px;
+}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Bebas Neue', cursive;
+   color: white;
+   font-size: 20px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 25px 0px;
+    text-align: center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
+     h2{color: white;
+    font-family: 'Bebas Neue', cursive;
+font-size: 45px;
+text-align: center;}
+
+iframe{margin-left: 120px;}
+
+
+}
